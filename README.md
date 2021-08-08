@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BFA1
+- 👋 Hi, I’m Blair
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Kotlin Projects
